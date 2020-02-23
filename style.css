@@ -11,3 +11,18 @@ li {
     color: yellow;
     font-size: small;
 }
+
+.branches {
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 2px solid;
+    color: yellowgreen;
+}
+
+.branches li {
+    color: violet;
+}
+
+.branches p {
+    background-color: aqua;
+}
